@@ -401,8 +401,8 @@ checking whether the actual results matched the expected results.
 
 ## 14. Author
 
-**Name:** Allen
+**Name:** Allen James A. Paquinol
 
-**Section:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Section:** CS26/L (3580)
 
-**Project:** Inventory Management System
+**Project:** Personal Inventory Management System
