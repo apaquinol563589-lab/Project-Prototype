@@ -347,7 +347,7 @@ and can locate a category by name.
 
 Screenshots of the working application should be placed in this section.
 
-![image alt](https://github.com/apaquinol563589-lab/Project-Prototype/blob/8b90e6a61f206e9999cf5c4f7c253386243b7ebb/Screenshot%202026-10-05%20210412.png)
+![image alt](https://github.com/apaquinol563589-lab/Project-Prototype/blob/1aac560d620c6e0b7d1d310e0096e6bc240413b2/Screenshot%202026-10-05%20210314.png)
 
 ### Main Menu
 
@@ -365,7 +365,7 @@ The Inventory Management screen allows users to add, update, delete, and clear i
 
 The Category Management screen allows users to add, delete, and refresh inventory categories. It also displays the number of items assigned to each category.
 
-![image alt]()
+![image alt](https://github.com/apaquinol563589-lab/Project-Prototype/blob/8b90e6a61f206e9999cf5c4f7c253386243b7ebb/Screenshot%202026-10-05%20210412.png)
 
 ### Inventory Calculations
 
