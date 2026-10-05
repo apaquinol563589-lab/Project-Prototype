@@ -1,8 +1,8 @@
-# Inventory Management System
+# Personal Inventory Management System
 
 ## 1. Project Title
 
-### Inventory Management System
+### Personal Inventory Management System
 
 ## 2. Project Description
 
