@@ -359,7 +359,7 @@ The main menu serves as the central navigation screen of the system. It provides
 
 The Inventory Management screen allows users to add, update, delete, and clear inventory items. It includes fields for the item name, quantity, price, and category, along with a table displaying the stored inventory records.
 
-![image alt]()
+![image alt](https://github.com/apaquinol563589-lab/Project-Prototype/blob/6c92997205a885dfff81b640e2e4dcc7f5b8573d/Screenshot%202026-10-05%20210357.png)
 
 ### Category Management
 
