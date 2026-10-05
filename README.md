@@ -347,25 +347,29 @@ and can locate a category by name.
 
 Screenshots of the working application should be placed in this section.
 
+![image alt]()
+
 ### Main Menu
 
-Shows the main application menu and provides access to the different
-features.
+The main menu serves as the central navigation screen of the system. It provides buttons to access Inventory Management, Category Management, Inventory Calculations, and Exit the application.
+
+![image alt]()
 
 ### Inventory Management
 
-Shows the Control Panel and inventory table in the same window.
+The Inventory Management screen allows users to add, update, delete, and clear inventory items. It includes fields for the item name, quantity, price, and category, along with a table displaying the stored inventory records.
 
-### Category Manager
+![image alt]()
 
-Shows the available categories and the number of items assigned to each
-category.
+### Category Management
 
-### Calculations
+The Category Management screen allows users to add, delete, and refresh inventory categories. It also displays the number of items assigned to each category.
 
-Shows individual inventory values and overall inventory statistics.
+![image alt]()
 
-> Add actual screenshots of the completed application to this section.
+### Inventory Calculations
+
+The Inventory Calculations screen displays the category, quantity, price, and total value of inventory items. It also provides a summary of the total items, quantity, and overall inventory value.
 
 ## 12. Testing
 
