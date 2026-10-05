@@ -353,7 +353,7 @@ Screenshots of the working application should be placed in this section.
 
 The main menu serves as the central navigation screen of the system. It provides buttons to access Inventory Management, Category Management, Inventory Calculations, and Exit the application.
 
-![image alt]()
+![image alt](https://github.com/apaquinol563589-lab/Project-Prototype/blob/5751cd87cdfdec0e3055b3bfbd9615789edc2b82/Screenshot%202026-10-05%20210337.png)
 
 ### Inventory Management
 
