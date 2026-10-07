@@ -86,7 +86,6 @@ SQLite3
 -   Python `dataclasses`
 -   Python `sqlite3`
 -   PyCharm / VS Code
--   Git (if applicable)
 
 ## 6. Project Structure
 
